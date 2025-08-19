@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New Project-backups/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "oled")(type "KiCad")(uri "${KIPRJMOD}/New Project-backups/oled.kicad_sym")(options "")(descr ""))
+)
